@@ -37,10 +37,3 @@
 </p>
 
 <br/>
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ESTEBAN2319&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESTEBAN2319&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" />
-</div>
